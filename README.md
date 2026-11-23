@@ -116,7 +116,7 @@ build.sh, build.cmd, package.sh build scripts
 
 ## Credits
 
-Created by Eric (Goat), with Claude (Anthropic).
+Created by Claude. Like, fully, I take no credit beyond testing and making it open-source.
 
 ## License
 
