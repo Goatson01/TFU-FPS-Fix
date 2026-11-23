@@ -1,0 +1,8 @@
+LIBRARY USER32.dll
+EXPORTS
+wsprintfA
+GetWindowLongA@8
+SetWindowLongA@12
+SetWindowPos@28
+MonitorFromWindow@8
+GetMonitorInfoA@8
